@@ -1,8 +1,8 @@
 = Java 17 Explore with Neo4j
 
-This is an example application using Spring Data Neo4j and connecting to a Neo4j Aura free tier database. You can recreate this project using the following steps:
+This is an example application using Spring Data Neo4j and connecting to a Neo4j AuraDB free tier database. You can recreate this project using the following steps:
 
-1. Create a Neo4j AuraDB free instance using https://dev.neo4j.com/aura[dev.neo4j.com/aura^].
+1. Create a Neo4j AuraDB free instance using https://dev.neo4j.com/aura-java[dev.neo4j.com/aura-java^].
 
 Creating an instance will require creating a user account with Neo4j, but there are no costs for either the account or to create a free tier database instance. Please record the password you create with your instance. It is not shown to you again and will be needed in order to connect the application to the database.
 
@@ -28,6 +28,8 @@ An example of the data model is shown below.
 image::src/main/resources/productions-data-model.png[]
 
 == Resources
-* https://dev.neo4j.com/aura[Neo4j AuraDB^]
-* https://bit.ly/aura-docs[Neo4j Aura documentation^]
-* https://bit.ly/sdn-docs[Spring Data Neo4j documentation^]
+* Neo4j AuraDB: https://dev.neo4j.com/aura-java[Create a FREE instance^]
+* Blog post: https://www.baeldung.com/java-sealed-classes-interfaces[Java17 Sealed classes^] (Baeldung)
+* Blog post: https://www.baeldung.com/java-switch-pattern-matching[Java17 Switch pattern matching^] (Baeldung)
+* Blog post: https://www.baeldung.com/java-instantsource[Java17 InstantSource^] (Baeldung)
+* Docs: https://neo4j.com/docs/java-reference/current/extending-neo4j/values-and-types/[Cypher to Java data types^]
