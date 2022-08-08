@@ -27,7 +27,14 @@ An example of the data model is shown below.
 
 image::src/main/resources/productions-data-model.png[]
 
+== Presentation
+
+PDF versions of accompanying presentations are published to SpeakerDeck.
+
+* https://speakerdeck.com/jmhreif/be-a-kid-again-learn-the-latest-java-features-through-exploration[KCDC 2022^]
+
 == Resources
+
 * Neo4j AuraDB: https://dev.neo4j.com/aura-java[Create a FREE instance^]
 * Blog post: https://www.baeldung.com/java-sealed-classes-interfaces[Java17 Sealed classes^] (Baeldung)
 * Blog post: https://www.baeldung.com/java-switch-pattern-matching[Java17 Switch pattern matching^] (Baeldung)
